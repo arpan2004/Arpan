@@ -20,7 +20,7 @@
 </a>
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Paritybitz&theme=highcontrast)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=arpan2004&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
