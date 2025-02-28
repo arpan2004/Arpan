@@ -4,7 +4,7 @@
 - 🔭 My current focus is on Full Stack Software Development!
 - 🌱 I am currently working on
   - A CV-based application to aid beginner guitarists master proper technique
-  - A dating app exclusively for GMU students
+  - A AI book recommendations app
 - ⚡ Excited about exploring Machine Learning and AI!
 
 <br>
